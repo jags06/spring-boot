@@ -1,6 +1,6 @@
 ../../HELP.md
 target/
-!spring-boot/.mvn/**
+spring-boot/.mvn/**
 !**/src/main/**/target/
 !**/src/test/**/target/
 

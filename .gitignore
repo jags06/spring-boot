@@ -1,5 +1,6 @@
 ../../HELP.md
-target/
+../target/
+/.mvn/
 spring-boot/.mvn/**
 !**/src/main/**/target/
 !**/src/test/**/target/
